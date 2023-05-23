@@ -13,6 +13,7 @@ import { RouterModule } from '@angular/router';
 import { Page1Component } from './landing-page/page1/page1.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
+import { OpenedPositionsComponent } from './opened-positions/opened-positions.component';
 import { RecruiterComponent } from './landing-page/recruiter/recruiter.component';
 
 @NgModule({
@@ -22,6 +23,7 @@ import { RecruiterComponent } from './landing-page/recruiter/recruiter.component
     MainMenuComponent,
     FormComponent,
     UploadCvComponent,
+    OpenedPositionsComponent,
     Page1Component,
     RecruiterComponent,
   ],

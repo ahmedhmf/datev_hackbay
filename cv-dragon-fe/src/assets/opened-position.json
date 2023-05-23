@@ -1,0 +1,2801 @@
+ {
+  "jobs": [
+    {
+      "fs_id": "1420544",
+      "reference_id": "ID09782",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09782.html",
+      "publishing_date": "2023-05-23",
+      "job_title": "Knowledge Manager für Wissensprodukte (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1420481",
+      "reference_id": "ID09915",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09915.html",
+      "publishing_date": "2023-05-22",
+      "job_title": "Werkstudent Softwareentwicklung Kanzleimanagement (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1420480",
+      "reference_id": "ID09911",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09911.html",
+      "publishing_date": "2023-05-22",
+      "job_title": "Werkstudent Data Specialist Monitoring Qualitätsmanagement (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1420418",
+      "reference_id": "ID09862",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09862.html",
+      "publishing_date": "2023-05-22",
+      "job_title": "Teamleitung HR Gehaltsabrechnung (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "530051",
+        "name": "Betriebswirtschaftlich"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1420417",
+      "reference_id": "ID09815",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09815.html",
+      "publishing_date": "2023-05-22",
+      "job_title": "Internal Auditor Information Technology (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "530051",
+        "name": "Betriebswirtschaftlich"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1420416",
+      "reference_id": "ID09646",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09646.html",
+      "publishing_date": "2023-05-22",
+      "job_title": "Steuerexperte in der Körperschaftsteuer (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1420352",
+      "reference_id": "ID09868",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09868.html",
+      "publishing_date": "2023-05-23",
+      "job_title": "Referent Steuern (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "530051",
+        "name": "Betriebswirtschaftlich"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1420289",
+      "reference_id": "ID09708",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09708.html",
+      "publishing_date": "2023-05-20",
+      "job_title": "Business Assistant Niederlassung Frankfurt (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "674",
+        "name": "Vertrieb und Consulting"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1420288",
+      "reference_id": "ID09679",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09679.html",
+      "publishing_date": "2023-05-20",
+      "job_title": "Berater/ Consultant betriebliches Rechnungswesen (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "674",
+        "name": "Vertrieb und Consulting"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1420224",
+      "reference_id": "ID09878",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09878.html",
+      "publishing_date": "2023-05-17",
+      "job_title": "Werkstudent Schwachstellenmanagement (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1420160",
+      "reference_id": "ID09724",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09724.html",
+      "publishing_date": "2023-05-17",
+      "job_title": "HR-Projektmanager (m/w/d) (befr. 30.6.2025)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "530051",
+        "name": "Betriebswirtschaftlich"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1420097",
+      "reference_id": "ID09899",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09899.html",
+      "publishing_date": "2023-05-23",
+      "job_title": "Werkstudent Kundenbetreuung und Vertrieb Hannover (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1420096",
+      "reference_id": "ID08092",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id08092.html",
+      "publishing_date": "2023-05-17",
+      "job_title": "Scrum Master Softwareentwicklung (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1420033",
+      "reference_id": "ID09850",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09850.html",
+      "publishing_date": "2023-05-16",
+      "job_title": "Werkstudent für Kundeninformationen und Hilfe-Content HR-Software (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1419968",
+      "reference_id": "ID09854",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09854.html",
+      "publishing_date": "2023-05-17",
+      "job_title": "Werkstudent Public Sector - Selbsthilfemedien (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1419904",
+      "reference_id": "ID09884",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09884.html",
+      "publishing_date": "2023-05-16",
+      "job_title": "Werkstudent Sales KAM Zielgruppe Unternehmen (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1419840",
+      "reference_id": "ID09836",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09836.html",
+      "publishing_date": "2023-05-15",
+      "job_title": "Softwareentwickler IT Fullstack (Angular, SpringBoot, Typescript, Javascript) (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "697",
+        "name": "Einsteiger/innen",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "681",
+        "name": "Einsteiger/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1419712",
+      "reference_id": "ID09353",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09353.html",
+      "publishing_date": "2023-05-15",
+      "job_title": "Praktikum im Personalbereich - Recruiting",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "698",
+        "name": "Praktikum",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1419648",
+      "reference_id": "ID09786",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09786.html",
+      "publishing_date": "2023-05-15",
+      "job_title": "Senior Requirements Engineer Wirtschaftsprüfung / Jahresabschluss (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1419584",
+      "reference_id": "ID09810",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09810.html",
+      "publishing_date": "2023-05-15",
+      "job_title": "Werkstudent Markenkommunikation und Sponsoring (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1419521",
+      "reference_id": "ID09867",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09867.html",
+      "publishing_date": "2023-05-12",
+      "job_title": "Werkstudent BWL/Wirtschaftsinformatik Content Entwicklung (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1419520",
+      "reference_id": "ID09866",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09866.html",
+      "publishing_date": "2023-05-12",
+      "job_title": "Werkstudent für den Recherchedienst (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1419392",
+      "reference_id": "ID09792",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09792.html",
+      "publishing_date": "2023-05-12",
+      "job_title": "Produktionshelfer im Druck- und Versandzentrum - Endabwicklung und Transport (m/w/d) (befristet für 12 Monate)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "692",
+        "name": "Aushilfstätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "681",
+        "name": "Einsteiger/innen"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1419329",
+      "reference_id": "ID09853",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09853.html",
+      "publishing_date": "2023-05-11",
+      "job_title": "Werkstudent First Contact (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1419328",
+      "reference_id": "ID02797",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id02797.html",
+      "publishing_date": "2023-05-12",
+      "job_title": "(Senior) Softwareentwickler Fullstack (Java, TypeScript) (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1419264",
+      "reference_id": "ID09841",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09841.html",
+      "publishing_date": "2023-05-10",
+      "job_title": "Werkstudent Niederlassungs- und Seminarmanagement Frankfurt (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1419201",
+      "reference_id": "ID09257",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09257.html",
+      "publishing_date": "2023-05-10",
+      "job_title": "Domain Software Engineer für Einkommensteuer - B2C TaxEngine (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1419137",
+      "reference_id": "ID09669",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09669.html",
+      "publishing_date": "2023-05-22",
+      "job_title": "Referent Datenschutz / Informationssicherheit (m/w/d) (1,5 Jahre)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "530051",
+        "name": "Betriebswirtschaftlich"
+      },
+      "entry_point": {
+        "id": "697",
+        "name": "Einsteiger/innen",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "681",
+        "name": "Einsteiger/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1419136",
+      "reference_id": "ID09611",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09611.html",
+      "publishing_date": "2023-05-09",
+      "job_title": "Werkstudent regionaler Vertrieb und Kundenbetreuung Berlin (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1419075",
+      "reference_id": "ID09793",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09793.html",
+      "publishing_date": "2023-05-10",
+      "job_title": "Berater / Consultant Personal-Software Region Süd (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "674",
+        "name": "Vertrieb und Consulting"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1419073",
+      "reference_id": "ID09728",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09728.html",
+      "publishing_date": "2023-05-08",
+      "job_title": "Mitarbeiter Kundenservice Software Kanzlei-Rechnungswesen (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "676",
+        "name": "Kundenservice und Produktmanagement"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1419072",
+      "reference_id": "ID08065",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id08065.html",
+      "publishing_date": "2023-05-08",
+      "job_title": "Lohnbuchhalter / Entgeltabrechner / Mitarbeiter Payroll (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "530051",
+        "name": "Betriebswirtschaftlich"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1419008",
+      "reference_id": "ID09434",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09434.html",
+      "publishing_date": "2023-05-05",
+      "job_title": "Site Reliability Engineer API Platform (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1418944",
+      "reference_id": "ID09809",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09809.html",
+      "publishing_date": "2023-05-09",
+      "job_title": "Werkstudent für Projekt-Assistenz in Nürnberg (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1418880",
+      "reference_id": "ID09808",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09808.html",
+      "publishing_date": "2023-05-10",
+      "job_title": "Werkstudent Bilanzierung und Steuern im Bereich Finanzen (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1418817",
+      "reference_id": "ID09802",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09802.html",
+      "publishing_date": "2023-05-04",
+      "job_title": "Werkstudent Marketing Vermarktungssteuerung (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1418816",
+      "reference_id": "ID09574",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09574.html",
+      "publishing_date": "2023-05-04",
+      "job_title": "Steuerexperte (Domain Software Engineer) in der Körperschaftsteuer (m/w/d) (30 Std.)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1418754",
+      "reference_id": "ID09800",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09800.html",
+      "publishing_date": "2023-05-09",
+      "job_title": "Werkstudent Account Management München (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1418753",
+      "reference_id": "ID09784",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09784.html",
+      "publishing_date": "2023-05-03",
+      "job_title": "Praktikum in der Datenvisualisierung",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1418752",
+      "reference_id": "ID09778",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09778.html",
+      "publishing_date": "2023-05-03",
+      "job_title": "Werkstudent Service Jahresabschluss/Anlagenbuchführung (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1418624",
+      "reference_id": "ID09787",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09787.html",
+      "publishing_date": "2023-05-17",
+      "job_title": "Werkstudent Cloud-native Application Lifecycle Management (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1418561",
+      "reference_id": "ID09777",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09777.html",
+      "publishing_date": "2023-05-15",
+      "job_title": "Content-Manager für steuerl. Wissensdatenbank LEXinform (m/w/d) (befr. 31.05.2024)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "530051",
+        "name": "Betriebswirtschaftlich"
+      },
+      "entry_point": {
+        "id": "697",
+        "name": "Einsteiger/innen",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "681",
+        "name": "Einsteiger/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1418560",
+      "reference_id": "ID09776",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09776.html",
+      "publishing_date": "2023-05-01",
+      "job_title": "(Junior) Requirements Engineer Steuern-Basis (m/w/d) (befr. 31.05.2024, 20 Std.)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "697",
+        "name": "Einsteiger/innen",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "681",
+        "name": "Einsteiger/innen"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1418496",
+      "reference_id": "ID09537",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09537.html",
+      "publishing_date": "2023-04-27",
+      "job_title": "Business Process Analyst Finanzwesen (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "530051",
+        "name": "Betriebswirtschaftlich"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1418432",
+      "reference_id": "ID09671",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09671.html",
+      "publishing_date": "2023-04-27",
+      "job_title": "Berater Service Quality Team (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "676",
+        "name": "Kundenservice und Produktmanagement"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1418368",
+      "reference_id": "ID09558",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09558.html",
+      "publishing_date": "2023-04-26",
+      "job_title": "Lead UX-Designer (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1418304",
+      "reference_id": "ID09200",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09200.html",
+      "publishing_date": "2023-04-26",
+      "job_title": "System Engineer / Systemadministrator Windows Servervirtualisierung (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "697",
+        "name": "Einsteiger/innen",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "681",
+        "name": "Einsteiger/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1418176",
+      "reference_id": "ID09718",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09718.html",
+      "publishing_date": "2023-04-27",
+      "job_title": "Praktikum Personalbereich - HR-Operations",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "698",
+        "name": "Praktikum",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1418112",
+      "reference_id": "ID09664",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09664.html",
+      "publishing_date": "2023-04-24",
+      "job_title": "Bestandsmanager IT-Verwaltung (m/w/d) (befr. 30.04.2024)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "697",
+        "name": "Einsteiger/innen",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "681",
+        "name": "Einsteiger/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1418048",
+      "reference_id": "ID09714",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09714.html",
+      "publishing_date": "2023-04-24",
+      "job_title": "Werkstudent für Test Engineering (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1417985",
+      "reference_id": "ID09683",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09683.html",
+      "publishing_date": "2023-04-24",
+      "job_title": "Teamleiter / Security Manager Betriebsschutz Werkschutz Physische Sicherheit (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "675",
+        "name": "Gewerblich und Technisch"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1417920",
+      "reference_id": "ID09739",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09739.html",
+      "publishing_date": "2023-04-21",
+      "job_title": "Werkstudent für Programmentwicklung Unternehmensteuern (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1417856",
+      "reference_id": "ID09730",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09730.html",
+      "publishing_date": "2023-04-21",
+      "job_title": "Aushilfe Zutrittskontrollsystem (m/w/d) (26 Std., 1,5 Jahre)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "692",
+        "name": "Aushilfstätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "681",
+        "name": "Einsteiger/innen"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1417793",
+      "reference_id": "ID09692",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09692.html",
+      "publishing_date": "2023-04-21",
+      "job_title": "Werkstudent Softwareentwicklung Kundendatenverwaltung (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1417665",
+      "reference_id": "ID09726",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09726.html",
+      "publishing_date": "2023-04-28",
+      "job_title": "Produktionshelfer Digital & Print Solution Center (m/w/d) (befr. 6 Monate)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "692",
+        "name": "Aushilfstätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "681",
+        "name": "Einsteiger/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1417664",
+      "reference_id": "ID08947",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id08947.html",
+      "publishing_date": "2023-04-20",
+      "job_title": "Berater/Consultant Rechnungswesen Region München (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "674",
+        "name": "Vertrieb und Consulting"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1417600",
+      "reference_id": "ID09699",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09699.html",
+      "publishing_date": "2023-04-20",
+      "job_title": "Werkstudent Business Analyse Rechtsanwaltsmarkt (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1417345",
+      "reference_id": "ID09695",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09695.html",
+      "publishing_date": "2023-04-17",
+      "job_title": "Werkstudent Informationsmanagement, Team Datenmanagement und Plattformen (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1417024",
+      "reference_id": "ID09134",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09134.html",
+      "publishing_date": "2023-04-12",
+      "job_title": "Softwareentwickler Fullstack für unser FlexPool Team in Berlin (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1416961",
+      "reference_id": "ID09580",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09580.html",
+      "publishing_date": "2023-04-12",
+      "job_title": "Kundenberater Software Kanzlei-Rechnungswesen (m/w/d) (befr. 31.03.2025)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "676",
+        "name": "Kundenservice und Produktmanagement"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1416832",
+      "reference_id": "ID09586",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09586.html",
+      "publishing_date": "2023-05-15",
+      "job_title": "Account-Manager Vertriebsinnendienst München (m/w/d) (32 Std., 1,5 Jahre)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "674",
+        "name": "Vertrieb und Consulting"
+      },
+      "entry_point": {
+        "id": "697",
+        "name": "Einsteiger/innen",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "681",
+        "name": "Einsteiger/innen"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1416704",
+      "reference_id": "ID09663",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09663.html",
+      "publishing_date": "2023-04-19",
+      "job_title": "Praktikum im Marketing",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "698",
+        "name": "Praktikum",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1416640",
+      "reference_id": "ID07687",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id07687.html",
+      "publishing_date": "2023-04-26",
+      "job_title": "Duales Studium Bachelor of Arts in Dienstleistungsmanagement (m/w/d), ab 10/2023",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "699",
+        "name": "Duales Studium",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "680",
+        "name": "Schüler/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1416448",
+      "reference_id": "ID09468",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09468.html",
+      "publishing_date": "2023-04-04",
+      "job_title": "Technischer Kundenberater IT-Lösungen (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "676",
+        "name": "Kundenservice und Produktmanagement"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1416256",
+      "reference_id": "ID09493",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09493.html",
+      "publishing_date": "2023-04-04",
+      "job_title": "Consultant Kanzleimanagement Norddeutschland (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "674",
+        "name": "Vertrieb und Consulting"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1416193",
+      "reference_id": "ID09542",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09542.html",
+      "publishing_date": "2023-04-04",
+      "job_title": "Account Executive Region Nord (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "674",
+        "name": "Vertrieb und Consulting"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1415681",
+      "reference_id": "ID09592",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09592.html",
+      "publishing_date": "2023-04-12",
+      "job_title": "Werkstudent API Management (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1415680",
+      "reference_id": "ID09589",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09589.html",
+      "publishing_date": "2023-05-05",
+      "job_title": "Werkstudent Qualitätsmanagement (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1415552",
+      "reference_id": "ID08545",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id08545.html",
+      "publishing_date": "2023-04-13",
+      "job_title": "Rechtsreferendar Schwerpunkt Arbeitsrecht (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "698",
+        "name": "Praktikum",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1415488",
+      "reference_id": "ID09531",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09531.html",
+      "publishing_date": "2023-04-25",
+      "job_title": "(Senior) Softwareentwickler z/Os (Java, Cobol, C, Angular) (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1415232",
+      "reference_id": "ID09293",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09293.html",
+      "publishing_date": "2023-03-21",
+      "job_title": "Werkstudent Entwicklung im Team Business IT-Personalsysteme (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1415043",
+      "reference_id": "ID09539",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09539.html",
+      "publishing_date": "2023-04-06",
+      "job_title": "SAP Basisadministrator (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1414913",
+      "reference_id": "ID09495",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09495.html",
+      "publishing_date": "2023-04-03",
+      "job_title": "Senior UX Researcher (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1414464",
+      "reference_id": "ID09397",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09397.html",
+      "publishing_date": "2023-03-13",
+      "job_title": "Performance-Manager für DATEVasp und -SmartIT (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "676",
+        "name": "Kundenservice und Produktmanagement"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1414337",
+      "reference_id": "ID09514",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09514.html",
+      "publishing_date": "2023-05-23",
+      "job_title": "Business Analyst/Produktmanager für Jahresabschluss Produkte (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "676",
+        "name": "Kundenservice und Produktmanagement"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1414080",
+      "reference_id": "ID01009",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id01009.html",
+      "publishing_date": "2023-04-06",
+      "job_title": "Initiativ für kaufmännische oder technische Kundenberatung (m/w/d)",
+      "unsolicited": "true",
+      "business_unit": {
+        "id": "676",
+        "name": "Kundenservice und Produktmanagement"
+      },
+      "entry_point": {},
+      "experience_level": {},
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1414016",
+      "reference_id": "ID09371",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09371.html",
+      "publishing_date": "2023-03-07",
+      "job_title": "Data Specialist Customer Care (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "676",
+        "name": "Kundenservice und Produktmanagement"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1413824",
+      "reference_id": "ID08274",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id08274.html",
+      "publishing_date": "2023-05-23",
+      "job_title": "Systemadministrator Datenbank / IT Cloud-Engineer Databases (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1413696",
+      "reference_id": "ID09463",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09463.html",
+      "publishing_date": "2023-04-06",
+      "job_title": "Werkstudent Telefonvertrieb (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1412416",
+      "reference_id": "ID08145",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id08145.html",
+      "publishing_date": "2023-05-17",
+      "job_title": "(Senior) Requirements Engineer - Steuern-Next (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1410112",
+      "reference_id": "ID09175",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09175.html",
+      "publishing_date": "2023-01-19",
+      "job_title": "Werkstudent Kundenbetreuung und Telefonvertrieb Hamburg (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1409856",
+      "reference_id": "ID05503",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id05503.html",
+      "publishing_date": "2023-04-03",
+      "job_title": "Steuerspezialist/Lohnabrechnungsspezialist (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1409408",
+      "reference_id": "ID06888",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id06888.html",
+      "publishing_date": "2023-01-15",
+      "job_title": "Systemadministrator Key Management System (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "697",
+        "name": "Einsteiger/innen",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "681",
+        "name": "Einsteiger/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1408769",
+      "reference_id": "ID09073",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id09073.html",
+      "publishing_date": "2023-01-09",
+      "job_title": "IT-Consultant bundesweit (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "674",
+        "name": "Vertrieb und Consulting"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1407872",
+      "reference_id": "ID07685",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id07685.html",
+      "publishing_date": "2022-12-22",
+      "job_title": "Duales Studium Bachelor of Science in Informatik (m/w/d), ab 10/2023",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "699",
+        "name": "Duales Studium",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "680",
+        "name": "Schüler/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1406592",
+      "reference_id": "ID07676",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id07676.html",
+      "publishing_date": "2022-12-13",
+      "job_title": "Ausbildung Fachinformatiker Anwendungsentwicklung (m/w/d), ab 09/2023",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "693",
+        "name": "Ausbildung",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "680",
+        "name": "Schüler/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1405621",
+      "reference_id": "ID08771",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id08771.html",
+      "publishing_date": "2023-04-04",
+      "job_title": "Junior Mainframe z/OS Systemadministrator / System Engineer (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "697",
+        "name": "Einsteiger/innen",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "681",
+        "name": "Einsteiger/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1405613",
+      "reference_id": "ID08731",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id08731.html",
+      "publishing_date": "2023-01-30",
+      "job_title": "Schülerpraktikum im kaufmännischen oder IT-Bereich",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "698",
+        "name": "Praktikum",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1405604",
+      "reference_id": "ID08677",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id08677.html",
+      "publishing_date": "2023-02-08",
+      "job_title": "Aushilfe Qualitätssicherung im Digital & Print Solution Center (m/w/d) (6 Monate)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "692",
+        "name": "Aushilfstätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "681",
+        "name": "Einsteiger/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1405586",
+      "reference_id": "ID08472",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id08472.html",
+      "publishing_date": "2023-04-04",
+      "job_title": "(Senior) Mainframe z/OS Systemadministrator / System Engineer (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1405542",
+      "reference_id": "ID07686",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id07686.html",
+      "publishing_date": "2022-12-14",
+      "job_title": "Duales Studium Bachelor of Science in Wirtschaftsinformatik (m/w/d), ab 10/2023",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "699",
+        "name": "Duales Studium",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "680",
+        "name": "Schüler/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1405540",
+      "reference_id": "ID07684",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id07684.html",
+      "publishing_date": "2023-02-22",
+      "job_title": "Ausbildung Fachkraft für Schutz und Sicherheit (m/w/d), ab 09/2023",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "693",
+        "name": "Ausbildung",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "680",
+        "name": "Schüler/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1405538",
+      "reference_id": "ID07681",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id07681.html",
+      "publishing_date": "2022-12-13",
+      "job_title": "Ausbildung Medientechnologen Druck (m/w/d), ab 09/2023",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "693",
+        "name": "Ausbildung",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "680",
+        "name": "Schüler/innen"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1405524",
+      "reference_id": "ID07296",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id07296.html",
+      "publishing_date": "2023-01-19",
+      "job_title": "Werkstudent Kundenbetreuung und Telefonvertrieb Magdeburg (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1405522",
+      "reference_id": "ID07148",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id07148.html",
+      "publishing_date": "2023-05-09",
+      "job_title": "Werkstudent Technologie Trend Management, Scouting und Strategieentwicklung (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {},
+      "entry_point": {
+        "id": "694",
+        "name": "Werkstudententätigkeit",
+        "disabled_dropdowns": "true"
+      },
+      "experience_level": {
+        "id": "678",
+        "name": "Studierende"
+      },
+      "work_time": {
+        "id": "1",
+        "name": "Teilzeit"
+      },
+      "contract_type": {
+        "id": "691",
+        "name": "befristet"
+      }
+    },
+    {
+      "fs_id": "1405516",
+      "reference_id": "ID06635",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id06635.html",
+      "publishing_date": "2023-03-07",
+      "job_title": "Consultant / Berater Personal Software (m/w/d) Region Koblenz, Eifel, Westerwald",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "674",
+        "name": "Vertrieb und Consulting"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1405514",
+      "reference_id": "ID05401",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id05401.html",
+      "publishing_date": "2023-01-10",
+      "job_title": "Solution Manager IT für Microsoft Office und Microsoft 365 (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "676",
+        "name": "Kundenservice und Produktmanagement"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1405511",
+      "reference_id": "ID03674",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id03674.html",
+      "publishing_date": "2023-04-06",
+      "job_title": "Software-Entwickler (C++, C#, SQL) (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1405509",
+      "reference_id": "ID01010",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id01010.html",
+      "publishing_date": "2023-04-06",
+      "job_title": "Initiativ für Gewerblich/Technisch",
+      "unsolicited": "true",
+      "business_unit": {
+        "id": "675",
+        "name": "Gewerblich und Technisch"
+      },
+      "entry_point": {},
+      "experience_level": {},
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1405508",
+      "reference_id": "ID01007",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id01007.html",
+      "publishing_date": "2023-05-15",
+      "job_title": "Initiativ für IT",
+      "unsolicited": "true",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {},
+      "experience_level": {},
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1405507",
+      "reference_id": "ID00352",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id00352.html",
+      "publishing_date": "2023-05-12",
+      "job_title": "(Senior) Software Engineer (Frontend) Cloud Lösungen (HTML5, CSS, JavaScript) (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    },
+    {
+      "fs_id": "1405506",
+      "reference_id": "ID00350",
+      "fs_url": "/web/de/karriere/alle-jobs/jobs-details/id00350.html",
+      "publishing_date": "2023-05-12",
+      "job_title": "(Senior) Softwareentwickler Cloud Lösungen (Java, Backend) (m/w/d)",
+      "unsolicited": "false",
+      "business_unit": {
+        "id": "673",
+        "name": "IT"
+      },
+      "entry_point": {
+        "id": "695",
+        "name": "Berufserfahrene",
+        "disabled_dropdowns": "false"
+      },
+      "experience_level": {
+        "id": "679",
+        "name": "Berufserfahrene"
+      },
+      "work_time": {
+        "id": "0",
+        "name": "Vollzeit"
+      },
+      "contract_type": {
+        "id": "690",
+        "name": "unbefristet"
+      }
+    }
+  ],
+  "unsolicited": 3
+}
