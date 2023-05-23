@@ -15,7 +15,7 @@ def read_pdf_to_str(uploaded_file: UploadFile) -> str:
     reader = PdfReader(uploaded_file.file)
     page_strs = []
     for page in reader.pages:
-        page_strs.append(page.extractText())
+        page_strs.append(page.extract_text())
     return " ".join(page_strs)
 
 @app.post("/uploadfile/")
