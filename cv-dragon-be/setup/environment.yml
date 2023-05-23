@@ -93,6 +93,7 @@ dependencies:
   - pandas=1.5.3=py310h46d7db6_0
   - pip=23.0.1=py310hca03da5_0
   - pluggy=1.0.0=py310hca03da5_1
+  - protobuf=3.20.3=py310h313beb8_0
   - pyarrow=11.0.0=py310hbfed03b_0
   - pycparser=2.21=pyhd8ed1ab_0
   - pypdf2=2.11.1=pyhd8ed1ab_0
@@ -111,6 +112,7 @@ dependencies:
   - requests=2.31.0=pyhd8ed1ab_0
   - responses=0.18.0=pyhd8ed1ab_0
   - sacremoses=0.0.53=pyhd8ed1ab_0
+  - sentencepiece=0.1.99=py310h48ca7d4_0
   - setuptools=66.0.0=py310hca03da5_0
   - six=1.16.0=pyh6c4a22f_0
   - sleef=3.5.1=h156473d_2
