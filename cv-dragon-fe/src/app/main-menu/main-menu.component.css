@@ -1,0 +1,39 @@
+.header_menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+}
+
+.menu_nav {
+  display: flex;
+  justify-content: start;
+  width: 80vw;
+}
+
+.nav_logo {
+  _border: 2px solid red;
+  text-align: center;
+  margin: 2rem;
+}
+
+.nav_logo-img {
+  width: 4rem;
+}
+
+.nav_logo-cap {
+  font-size: 0.75rem;
+  margin: 0.5rem 1rem;
+}
+
+.nav_button {
+  border: none;
+  background-color: transparent;
+  font-size: 1rem;
+  margin-inline: 10vw;
+  cursor: pointer;
+}
+
+.nav_button:hover {
+  color: rgb(4, 132, 125);
+}
