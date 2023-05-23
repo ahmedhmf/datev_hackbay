@@ -6,8 +6,8 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { LandingPageComponent } from './landing-page/landing-page.component';
 import { HeaderComponent } from './landing-page/header/header.component';
-import {MatMenuModule} from '@angular/material/menu';
 import { MainMenuComponent } from './main-menu/main-menu.component';
+import { MaterialModule } from './material.module';
 
 @NgModule({
   declarations: [
@@ -20,7 +20,7 @@ import { MainMenuComponent } from './main-menu/main-menu.component';
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    MatMenuModule
+    MaterialModule
   ],
   providers: [],
   bootstrap: [AppComponent]

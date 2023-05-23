@@ -22,7 +22,11 @@
     "@angular/router": "^14.2.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.11.4"
+    "zone.js": "~0.11.4",
+    "angular-tabler-icons": "^2.7.0",
+    "apexcharts": "^3.35.3",
+    "ng-apexcharts": "1.7.1",
+    "sass": "^1.57.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.2.4",
