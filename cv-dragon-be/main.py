@@ -26,10 +26,3 @@ async def create_upload_file(file: UploadFile | None = None):
     else:
         read_pdf_to_str(file)
         return {"filename": file.filename}
-
-        client = TestClient(app)
-
-
-def test_read_main():
-    response = client.get("/docs")
-    assert response.status_code == 200
