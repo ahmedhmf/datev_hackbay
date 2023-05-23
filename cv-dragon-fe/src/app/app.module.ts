@@ -13,6 +13,7 @@ import { UploadCvComponent } from './upload-cv/upload-cv.component';
 import { RouterModule } from '@angular/router';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
+import { OpenedPositionsComponent } from './opened-positions/opened-positions.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { HttpClientModule } from '@angular/common/http';
     HeaderComponent,
     MainMenuComponent,
     FormComponent,
-    UploadCvComponent
+    UploadCvComponent,
+    OpenedPositionsComponent
   ],
   imports: [
     BrowserModule,
