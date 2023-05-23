@@ -8,7 +8,7 @@ from transformers import pipeline
 
 model_name = "deepset/xlm-roberta-large-squad2"
 
-app = FastAPI()
+app = FastAPI(debug=True)
 
 origins = ["*"]
 
@@ -35,7 +35,7 @@ async def create_upload_file(file: UploadFile | None = None):
         page_content = read_pdf_to_str(file)
         return {'page-content': page_content}
     
-@app.get("/cv/details")
+@app.get("/cv/details/")
 async def askQuestionForCv(content: str, question: str):
     nlp = pipeline('question-answering', model=model_name, tokenizer=model_name)
     QA_input = {
