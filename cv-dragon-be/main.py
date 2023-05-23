@@ -10,6 +10,7 @@ model_name = "deepset/xlm-roberta-large-squad2"
 
 app = FastAPI(debug=True)
 
+job_titles_lookup = {}
 
 def read_pdf_to_str(uploaded_file: UploadFile) -> str:
     reader = PdfReader(uploaded_file.file)
@@ -35,6 +36,14 @@ async def askQuestionForCv(content: str, question: str):
     }
     res = nlp(QA_input)
     return {'answer': res["answer"].strip()}
+
+@app.post("/register/")
+async def registerForPositions(email: str, job_titles: list[str]):
+    job_titles_lookup[email] = job_titles
+
+@app.get("/me/")
+async def getProfile(email: str):
+    return {"job_titles": job_titles_lookup[email]}
 
 origins = ['*']
 
