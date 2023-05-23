@@ -1,0 +1,34 @@
+.page_slider {
+  width: 90vw;
+  background-color: gray;
+  aspect-ratio: 16/9;
+  background-size: contain;
+  text-align: center;
+  margin: auto;
+
+  display: inline-block;
+  justify-content: space-around;
+  align-items: center;
+
+  position: absolute;
+  left: 5vw;
+}
+
+.page_slider-h {
+  color: white;
+  font-size: 3vmax;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+  line-height: normal;
+  margin-top: 35vmax;
+}
+
+.page_slider-btn {
+  border: none;
+  font-size: 2vmax;
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  background-color: #7ebb25;
+  color: white;
+}

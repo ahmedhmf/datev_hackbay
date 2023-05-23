@@ -5,12 +5,12 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { LandingPageComponent } from './landing-page/landing-page.component';
-import { HeaderComponent } from './landing-page/header/header.component';
 import { MainMenuComponent } from './main-menu/main-menu.component';
 import { MaterialModule } from './material.module';
 import { FormComponent } from './upload-cv/form/form.component';
 import { UploadCvComponent } from './upload-cv/upload-cv.component';
 import { RouterModule } from '@angular/router';
+import { Page1Component } from './landing-page/page1/page1.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { OpenedPositionsComponent } from './opened-positions/opened-positions.component';
@@ -19,11 +19,11 @@ import { OpenedPositionsComponent } from './opened-positions/opened-positions.co
   declarations: [
     AppComponent,
     LandingPageComponent,
-    HeaderComponent,
     MainMenuComponent,
     FormComponent,
     UploadCvComponent,
-    OpenedPositionsComponent
+    OpenedPositionsComponent,
+    Page1Component,
   ],
   imports: [
     BrowserModule,
@@ -32,9 +32,9 @@ import { OpenedPositionsComponent } from './opened-positions/opened-positions.co
     MaterialModule,
     FormsModule,
     ReactiveFormsModule,
-    HttpClientModule
+    HttpClientModule,
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
