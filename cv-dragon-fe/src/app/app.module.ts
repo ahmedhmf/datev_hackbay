@@ -8,13 +8,18 @@ import { LandingPageComponent } from './landing-page/landing-page.component';
 import { HeaderComponent } from './landing-page/header/header.component';
 import { MainMenuComponent } from './main-menu/main-menu.component';
 import { MaterialModule } from './material.module';
+import { FormComponent } from './upload-cv/form/form.component';
+import { UploadCvComponent } from './upload-cv/upload-cv.component';
+import { RouterModule } from '@angular/router';
 
 @NgModule({
   declarations: [
     AppComponent,
     LandingPageComponent,
     HeaderComponent,
-    MainMenuComponent
+    MainMenuComponent,
+    FormComponent,
+    UploadCvComponent
   ],
   imports: [
     BrowserModule,
