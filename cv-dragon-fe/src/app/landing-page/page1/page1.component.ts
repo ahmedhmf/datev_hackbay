@@ -39,4 +39,12 @@ export class Page1Component implements OnInit {
       this.show1 = !this.show1;
     }, 5000);
   }
+
+  scrollToElement(element): void {
+    element.scrollIntoView({
+      behavior: 'smooth',
+      block: 'start',
+      inline: 'nearest',
+    });
+  }
 }
