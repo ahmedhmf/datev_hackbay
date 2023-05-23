@@ -1,15 +1,21 @@
-<mat-card class="example-card">
+<form [formGroup]="myForm" class="form">
+  <mat-card class="example-card">
     <mat-card-header>
       <div mat-card-avatar class="example-header-image"></div>
-      <mat-card-title>Shiba Inu</mat-card-title>
-      <mat-card-subtitle>Dog Breed</mat-card-subtitle>
+      <mat-card-title> Upload</mat-card-title>
+      <mat-card-subtitle
+        >Please upload the cv to the job xxxx</mat-card-subtitle
+      >
     </mat-card-header>
-    <img mat-card-image src="https://material.angular.io/assets/img/examples/shiba2.jpg" alt="Photo of a Shiba Inu">
-    <mat-card-content>
 
-    </mat-card-content>
+    <label for="input-file-id" class="md-button md-raised md-primary"
+      >Choose Files</label
+    >
+    <input class="ng-hide" id="input-file-id" multiple type="file" formControlName="file" (change)="onChange($event)"/>
+
     <mat-card-actions>
-      <button mat-button>LIKE</button>
-      <button mat-button>SHARE</button>
+      <button mat-button (click)="onButtonSave()">Save</button>
+      <button mat-button (click)="onButtonCancel()">Cancel</button>
     </mat-card-actions>
   </mat-card>
+</form>

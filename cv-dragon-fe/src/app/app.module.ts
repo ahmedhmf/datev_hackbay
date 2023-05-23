@@ -11,6 +11,8 @@ import { MaterialModule } from './material.module';
 import { FormComponent } from './upload-cv/form/form.component';
 import { UploadCvComponent } from './upload-cv/upload-cv.component';
 import { RouterModule } from '@angular/router';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -25,7 +27,10 @@ import { RouterModule } from '@angular/router';
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    MaterialModule
+    MaterialModule,
+    FormsModule,
+    ReactiveFormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
