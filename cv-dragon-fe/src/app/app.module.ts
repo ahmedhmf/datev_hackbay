@@ -13,6 +13,7 @@ import { RouterModule } from '@angular/router';
 import { Page1Component } from './landing-page/page1/page1.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
+import { OpenedPositionsComponent } from './opened-positions/opened-positions.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +22,7 @@ import { HttpClientModule } from '@angular/common/http';
     MainMenuComponent,
     FormComponent,
     UploadCvComponent,
+    OpenedPositionsComponent,
     Page1Component,
   ],
   imports: [
