@@ -11,6 +11,8 @@ import { FormComponent } from './upload-cv/form/form.component';
 import { UploadCvComponent } from './upload-cv/upload-cv.component';
 import { RouterModule } from '@angular/router';
 import { Page1Component } from './landing-page/page1/page1.component';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -26,6 +28,9 @@ import { Page1Component } from './landing-page/page1/page1.component';
     AppRoutingModule,
     BrowserAnimationsModule,
     MaterialModule,
+    FormsModule,
+    ReactiveFormsModule,
+    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

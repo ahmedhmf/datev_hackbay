@@ -1,0 +1,16 @@
+mat-card{
+    width: 50%;
+    display: inline-block;
+    margin: 0 auto;
+    padding: 3px;
+}
+
+mat-form-field{
+    width: 100%;
+}
+
+.form{
+    width: 100%;
+    text-align: center;
+}
+
