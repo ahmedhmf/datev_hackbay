@@ -39,8 +39,8 @@ async def create_upload_file(file: UploadFile | None = None):
 async def askQuestionForCv(content: str, question: str):
     nlp = pipeline('question-answering', model=model_name, tokenizer=model_name)
     QA_input = {
-        'question': question,
-        'context': content
+        'question': question.strip(),
+        'context': content.strip()
     }
     res = nlp(QA_input)
-    return {'answer': res["answer"]}
+    return {'answer': res["answer"].strip()}
