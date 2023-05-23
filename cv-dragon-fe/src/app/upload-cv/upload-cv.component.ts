@@ -1,4 +1,4 @@
-import { HttpClient, HttpParams } from '@angular/common/http';
+import { HttpClient, HttpHeaders, HttpParams } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
 
@@ -24,7 +24,7 @@ export class UploadCvComponent implements OnInit {
   onButtonSave(){
     let testData:FormData = new FormData();
     testData.append('file', this.file ?? '', 'newFile.pdf');
-    this.httpClient.post('https://22ac-62-128-6-5.ngrok-free.app/uploadfile/', testData)
+    this.httpClient.post('https://dc09-62-128-6-5.ngrok-free.app/uploadfile/', testData)
       .subscribe(res => {
         console.log(res);
       },
@@ -48,8 +48,8 @@ Abitur 2015
 Europe Coding Bootcamps
 Bootcamp for Junior Front End
 Developer 2023
-VSCode 
-GitHub 
+VSCode
+GitHub
 Vue
 Cypress
 NPM
@@ -68,9 +68,9 @@ anja.wurlitzer.coding@gmail.com
 fitness, journaling, musicin education until June 2021 Destiller
 Friedrich Specht Söhne - Meerane |
 January 2020 - March 2022
-Altenburger Destillerie | 
+Altenburger Destillerie |
 Sept. 2018 - Dec. 2019
-Making and developing of liquids and 
+Making and developing of liquids and
  spirits, operating the bottling plants,
 sensory testingfitness trainer, teens club, customer
 service, show entertainment Hotel Animation
@@ -90,11 +90,15 @@ bootcampproblem solving - ingenuity - resilience
 Quizapp (final project)
 Github: AnjaWurli`
 
-    this.httpClient.get('https://22ac-62-128-6-5.ngrok-free.app/cv/details/',{ 
+    this.httpClient.get('https://dc09-62-128-6-5.ngrok-free.app/cv/details/',{
       params:{
         content: x,
         question: "How long are they working?"
-      }
+      },
+      headers: new HttpHeaders({
+        'ngrok-skip-browser-warning': 'true'
+
+      }),
     } ).subscribe(
       (result)=>{
     console.log(result);

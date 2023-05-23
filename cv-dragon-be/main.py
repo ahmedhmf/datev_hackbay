@@ -10,15 +10,6 @@ model_name = "deepset/xlm-roberta-large-squad2"
 
 app = FastAPI(debug=True)
 
-origins = ["*"]
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=origins,
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
 
 def read_pdf_to_str(uploaded_file: UploadFile) -> str:
     reader = PdfReader(uploaded_file.file)
@@ -44,3 +35,13 @@ async def askQuestionForCv(content: str, question: str):
     }
     res = nlp(QA_input)
     return {'answer': res["answer"].strip()}
+
+origins = ['*']
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=['*'],
+    allow_headers=['*'],
+)
