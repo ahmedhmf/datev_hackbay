@@ -19,6 +19,7 @@ import { MatInputModule } from '@angular/material/input';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatSortModule } from '@angular/material/sort';
 import { MatTableModule } from '@angular/material/table';
+import { RecruiterComponent } from './landing-page/recruiter/recruiter.component';
 
 @NgModule({
   declarations: [
@@ -29,6 +30,7 @@ import { MatTableModule } from '@angular/material/table';
     UploadCvComponent,
     OpenedPositionsComponent,
     Page1Component,
+    RecruiterComponent,
   ],
   imports: [
     BrowserModule,

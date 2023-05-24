@@ -40,10 +40,20 @@ async def askQuestionForCv(content: str, question: str):
 @app.post("/register/")
 async def registerForPositions(email: str, job_titles: list[str]):
     job_titles_lookup[email] = job_titles
+    return {'success': 'true'}
+
+@app.get("/lookup/")
+async def lookupJobpositionApplicants(job_title: str):
+    applicants = []
+    for email, val in job_titles_lookup.items():
+        if job_title in val: 
+            applicants.append(email)
+    return {"applicants": applicants}
 
 @app.get("/me/")
 async def getProfile(email: str):
     return {"job_titles": job_titles_lookup[email]}
+
 
 origins = ['*']
 

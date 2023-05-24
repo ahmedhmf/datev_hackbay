@@ -31,4 +31,47 @@
   border-radius: 1rem;
   background-color: #7ebb25;
   color: white;
+  cursor: pointer;
+}
+
+.page_topSection {
+  position: relative;
+  top: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.chart {
+  width: 50vw;
+  margin-left: 2rem;
+}
+
+.funnel {
+  width: 35vw;
+  justify-self: center;
+  margin-top: -6rem;
+}
+.comment {
+  width: 60vw;
+  grid-column: span 2;
+  justify-self: center;
+  position: absolute;
+  bottom: -50%;
+}
+
+.dot {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 100%;
+  background-color: lightgray;
+  justify-self: end;
+}
+
+.dot + .dot {
+  justify-self: start;
+}
+
+.dot_dark {
+  background-color: gray;
 }
