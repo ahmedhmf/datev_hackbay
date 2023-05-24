@@ -6,7 +6,7 @@ import { UploadCvComponent } from './upload-cv/upload-cv.component';
 
 const routes: Routes = [
   {
-    path: 'home',
+    path: '',
     component: LandingPageComponent,
   },
   {

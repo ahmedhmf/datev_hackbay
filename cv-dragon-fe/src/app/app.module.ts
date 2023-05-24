@@ -14,6 +14,11 @@ import { Page1Component } from './landing-page/page1/page1.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 import { OpenedPositionsComponent } from './opened-positions/opened-positions.component';
+import { MatFormFieldModule } from '@angular/material/form-field';
+import { MatInputModule } from '@angular/material/input';
+import { MatPaginatorModule } from '@angular/material/paginator';
+import { MatSortModule } from '@angular/material/sort';
+import { MatTableModule } from '@angular/material/table';
 
 @NgModule({
   declarations: [
@@ -33,6 +38,7 @@ import { OpenedPositionsComponent } from './opened-positions/opened-positions.co
     FormsModule,
     ReactiveFormsModule,
     HttpClientModule,
+    MatFormFieldModule, MatInputModule, MatTableModule, MatSortModule, MatPaginatorModule
   ],
   providers: [],
   bootstrap: [AppComponent],
