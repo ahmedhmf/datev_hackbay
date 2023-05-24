@@ -16,3 +16,9 @@ def predict(texts: List[str]) -> np.ndarray:
 
 def class_info(model):
     return model.classes_
+
+def main():
+    predict(["HR"])
+
+if __name__ == "__main__":
+    main()
