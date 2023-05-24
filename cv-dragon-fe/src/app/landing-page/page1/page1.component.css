@@ -3,16 +3,23 @@
   background-color: gray;
   aspect-ratio: 16/9;
   background-size: contain;
+  background-repeat: no-repeat;
   text-align: center;
   margin: auto;
 
   display: inline-block;
-  justify-content: space-around;
-  align-items: center;
 
   position: absolute;
   left: 5vw;
-  z-index: 1;
+}
+
+@media screen and (max-width: 500px) {
+  .page_slider {
+    width: 100vw;
+    aspect-ratio: 3/4;
+    background-size: cover;
+    background-position: 40%;
+  }
 }
 
 .slider_wrapper {
@@ -26,7 +33,7 @@
   background-color: transparent;
   border-block: 2rem transparent solid;
   border-right: 2rem rgba(94, 178, 38, 0.5) solid;
-  z-index: 2;
+
   top: calc(90vw * 16 / 9 / 8);
   translate: 0 50%;
   cursor: pointer;
@@ -114,6 +121,24 @@
   width: 60vw;
   opacity: 0;
   margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 500px) {
+  .chart {
+    width: 100vw;
+  }
+  .comment {
+    width: 100vw;
+  }
+  .comment_placeholder {
+    margin-bottom: 5rem;
+  }
+  .funnel {
+    width: 100vw;
+  }
+  .slider_btn-right {
+    display: none;
+  }
 }
 
 .dot {
