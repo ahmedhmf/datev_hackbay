@@ -2,9 +2,10 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { LandingPageComponent } from './landing-page/landing-page.component';
 import { OpenedPositionsComponent } from './opened-positions/opened-positions.component';
-import { RecruiterComponent } from './landing-page/recruiter/recruiter.component';
 import { UploadCvComponent } from './upload-cv/upload-cv.component';
 import { ApplicantsComponent } from './applicants/applicants.component';
+import { RecruterComponent } from './recruter/recruter.component';
+import { JobDetailsComponent } from './job-details/job-details.component';
 
 const routes: Routes = [
   {
@@ -20,13 +21,15 @@ const routes: Routes = [
     component: OpenedPositionsComponent,
   },
   {
-    path: 'recruiter',
-    component: RecruiterComponent,
-  },
-  {
     path: 'applicant',
     component: ApplicantsComponent,
   },
+  {
+    path: 'recruiter',
+    component: RecruterComponent,
+    children: [],
+  },
+  { path: 'job/:id', component: JobDetailsComponent }
 ];
 
 @NgModule({

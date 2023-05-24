@@ -1,0 +1,41 @@
+<div style="display: flex">
+    <mat-form-field>
+      <mat-label>Filter</mat-label>
+      <input
+        matInput
+        (keyup)="applyFilter($event)"
+        placeholder="Filter"
+        #input
+      />
+    </mat-form-field>
+    <mat-paginator
+      #paginator
+      [pageSizeOptions]="[5, 10, 20, 40]"
+      showFirstLastButtons
+    ></mat-paginator>
+  </div>
+  <table
+    mat-table
+    [dataSource]="this.myDataSource"
+    class="mat-elevation-z8"
+    style="width: 100%"
+  >
+  
+    <ng-container matColumnDef="E-Mail">
+      <th mat-header-cell *matHeaderCellDef>E-Mail</th>
+      <td mat-cell *matCellDef="let element">
+        {{ element.email }}
+      </td>
+    </ng-container>
+  
+    <!-- Name Column -->
+    <ng-container matColumnDef="Match Probability">
+      <th mat-header-cell *matHeaderCellDef>Match Probability</th>
+      <td mat-cell *matCellDef="let element">{{ convertToNumber(element.score)| percent:'.2' }}</td>
+    </ng-container>
+  
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+  </table>
+
+  

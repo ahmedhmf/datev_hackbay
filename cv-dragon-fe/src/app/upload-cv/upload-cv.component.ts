@@ -30,6 +30,9 @@ export class UploadCvComponent implements OnInit {
     testData.append('file', this.file ?? '', 'newFile.pdf');
     this.httpClient
       .post(this.address + 'uploadfile/', testData, {
+        params:{
+          email: this.applicantService.emailAddress
+        },
         headers: new HttpHeaders({
           'ngrok-skip-browser-warning': 'true',
         }),
