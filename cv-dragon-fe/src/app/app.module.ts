@@ -20,6 +20,8 @@ import { MatSortModule } from '@angular/material/sort';
 import { MatTableModule } from '@angular/material/table';
 import { RecruiterComponent } from './landing-page/recruiter/recruiter.component';
 import { ApplicantsComponent } from './applicants/applicants.component';
+import { RecruterComponent } from './recruter/recruter.component';
+import { JobDetailsComponent } from './job-details/job-details.component';
 
 @NgModule({
   declarations: [
@@ -31,7 +33,9 @@ import { ApplicantsComponent } from './applicants/applicants.component';
     OpenedPositionsComponent,
     Page1Component,
     RecruiterComponent,
-    ApplicantsComponent
+    ApplicantsComponent,
+    RecruterComponent,
+    JobDetailsComponent
   ],
   imports: [
     BrowserModule,
