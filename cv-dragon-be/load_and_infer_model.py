@@ -1,5 +1,6 @@
 from joblib import dump, load
 import numpy as np
+from typing import List
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import RandomForestClassifier
