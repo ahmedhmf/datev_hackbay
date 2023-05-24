@@ -3,7 +3,7 @@ from typing import Annotated
 from fastapi import FastAPI, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from PyPDF2 import PdfReader
-from load_and_infer_model import predict, predict_class
+from load_and_infer_model import predict_class
 
 from transformers import pipeline
 
