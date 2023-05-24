@@ -12,6 +12,7 @@ export class UploadCvComponent implements OnInit {
   public myForm = new FormGroup({
     file: new FormControl('', [Validators.required]),
   });
+  showSpinner = false;
   file: File | null = null;
   public address = 'https://a45d-62-128-6-5.ngrok-free.app/';
   constructor(
@@ -26,12 +27,13 @@ export class UploadCvComponent implements OnInit {
   }
 
   onButtonSave() {
+    this.showSpinner = true;
     let testData: FormData = new FormData();
     testData.append('file', this.file ?? '', 'newFile.pdf');
     this.httpClient
       .post(this.address + 'uploadfile/', testData, {
-        params:{
-          email: this.applicantService.emailAddress
+        params: {
+          email: this.applicantService.emailAddress,
         },
         headers: new HttpHeaders({
           'ngrok-skip-browser-warning': 'true',
@@ -71,19 +73,23 @@ export class UploadCvComponent implements OnInit {
                   .subscribe(
                     (final) => {
                       console.log(final);
+                      this.showSpinner = false;
                     },
                     (error) => {
                       console.log(error);
+                      this.showSpinner = false;
                     }
                   );
               },
               (error) => {
                 console.log(error);
+                this.showSpinner = false;
               }
             );
         },
         (error) => {
           console.log(error);
+          this.showSpinner = false;
         }
       );
   }
