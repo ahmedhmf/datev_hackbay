@@ -32,13 +32,13 @@ import {
 })
 export class Page1Component implements OnInit {
   public show1 = true;
+  public timer = setInterval(() => {
+    this.show1 = !this.show1;
+  }, 5000);
+
   constructor() {}
 
-  ngOnInit(): void {
-    setInterval(() => {
-      this.show1 = !this.show1;
-    }, 5000);
-  }
+  ngOnInit(): void {}
 
   scrollToElement(element): void {
     element.scrollIntoView({
@@ -46,5 +46,13 @@ export class Page1Component implements OnInit {
       block: 'start',
       inline: 'nearest',
     });
+  }
+
+  clickSlider(direction): void {
+    this.show1 = !this.show1;
+    clearInterval(this.timer);
+    this.timer = setInterval(() => {
+      this.show1 = !this.show1;
+    }, 5000);
   }
 }

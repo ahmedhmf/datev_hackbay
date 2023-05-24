@@ -1,18 +1,37 @@
-<div class="page_slider" style='background-image: url("../assets/img/applicants.jpg")' *ngIf="show1" [@inOutAnimation]>
-    <h2 class="page_slider-h">You want to work for Datev?</h2>
-    <button class="page_slider-btn">Check available jobs ></button>
-</div>
-<div class="page_slider" style='background-image: url("../assets/img/recruiters.jpg")' *ngIf="!show1" [@inOutAnimation]>
-    <h2 class="page_slider-h">You want to cut 50% of the time in HR?</h2>
-    <button class="page_slider-btn" (click)="scrollToElement(target)">See more details ></button>
+<div class="slider_wrapper">
+    <button class="slider_btn-left" (click)="clickSlider('left')"></button>
+    <button class="slider_btn-right" (click)="clickSlider('right')"></button>
+    <div class="page_slider" style='background-image: url("../assets/img/applicants.jpg")' *ngIf="show1"
+        [@inOutAnimation]>
+        <h2 class="page_slider-h">You want to work for Datev?</h2>
+        <button class="page_slider-btn">Check available jobs ></button>
+    </div>
+    <div class="page_slider" style='background-image: url("../assets/img/recruiters.jpg")' *ngIf="!show1"
+        [@inOutAnimation]>
+        <h2 class="page_slider-h">You want to cut 50% of the time in HR?</h2>
+        <button class="page_slider-btn" (click)="scrollToElement(target)">See more details ></button>
+    </div>
 </div>
 <section class="page_topSection" #target>
-    <img src="../assets/img/chart.png" alt="" class="chart">
-    <img src="../assets/img/funnel.png" alt="" class="funnel">
-    <div class="dot" [class.dot_dark]="show1"></div>
-    <div class="dot" [class.dot_dark]="!show1"></div>
-    <img src="../assets/img/maike.png" alt="" class="comment" *ngIf="show1" [@inOutAnimation]>
-    <img src="../assets/img/michael.png" alt="" class="comment" *ngIf="!show1" [@inOutAnimation]>
+    <figure>
+        <figcaption class="page_figcaption">Time consumption for different recruiting stages
+        </figcaption>
+        <img src="../assets/img/chart_1.png" alt="" class="chart">
+    </figure>
 
+    <figure>
+        <img src="../assets/img/maike.png" alt="" class="comment" *ngIf="show1" [@inOutAnimation]>
+        <img src="../assets/img/michael.png" alt="" class="comment" *ngIf="!show1" [@inOutAnimation]>
+        <img src="../assets/img/maike.png" alt="" class="comment_placeholder">
+        <figcaption>
+            <div class="dot" [class.dot_dark]="show1"></div>
+            <div class="dot" [class.dot_dark]="!show1"></div>
+        </figcaption>
+    </figure>
+
+    <figure>
+        <figcaption class="page_figcaption">How many applicants for every interview stage</figcaption>
+        <img src="../assets/img/funnel.png" alt="" class="funnel">
+    </figure>
 
 </section>

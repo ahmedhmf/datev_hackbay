@@ -44,6 +44,7 @@ def predict_class(texts, class_of_interest):
         print(f"{class_of_interest} not in {model.classes_}")
     else:
         class_idx = list(model.classes_).index(class_of_interest)
+        vectorised_text = vect.transform(texts)
         predictions = model.predict_proba(vectorised_text)
         return list(predictions[:, class_idx])
 
