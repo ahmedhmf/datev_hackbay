@@ -1,5 +1,6 @@
 name: cv-dragon
 channels:
+  - anaconda
   - conda-forge
   - defaults
 dependencies:
@@ -92,7 +93,9 @@ dependencies:
   - packaging=23.0=py310hca03da5_0
   - pandas=1.5.3=py310h46d7db6_0
   - pip=23.0.1=py310hca03da5_0
+  - platformdirs=3.5.1=pyhd8ed1ab_0
   - pluggy=1.0.0=py310hca03da5_1
+  - pooch=1.7.0=pyha770c72_3
   - protobuf=3.20.3=py310h313beb8_0
   - pyarrow=11.0.0=py310hbfed03b_0
   - pycparser=2.21=pyhd8ed1ab_0
@@ -112,6 +115,8 @@ dependencies:
   - requests=2.31.0=pyhd8ed1ab_0
   - responses=0.18.0=pyhd8ed1ab_0
   - sacremoses=0.0.53=pyhd8ed1ab_0
+  - scikit-learn=1.2.2=py310h313beb8_0
+  - scipy=1.10.1=py310h20cbe94_1
   - sentencepiece=0.1.99=py310h48ca7d4_0
   - setuptools=66.0.0=py310hca03da5_0
   - six=1.16.0=pyh6c4a22f_0
@@ -120,6 +125,7 @@ dependencies:
   - sniffio=1.3.0=pyhd8ed1ab_0
   - sqlite=3.41.2=h80987f9_0
   - starlette=0.27.0=pyhd8ed1ab_0
+  - threadpoolctl=2.2.0=pyh0d69192_0
   - tk=8.6.12=hb8d0fd4_0
   - tokenizers=0.11.4=py310h5c5695e_1
   - tomli=2.0.1=py310hca03da5_0

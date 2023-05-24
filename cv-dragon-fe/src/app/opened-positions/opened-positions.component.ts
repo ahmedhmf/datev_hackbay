@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { MatTableDataSource } from '@angular/material/table';
 import * as jobs  from '../../assets/opened-position.json';
 
 @Component({
@@ -7,13 +8,19 @@ import * as jobs  from '../../assets/opened-position.json';
   styleUrls: ['./opened-positions.component.css']
 })
 export class OpenedPositionsComponent implements OnInit {
-  public dataSource = jobs;
+  public myjobs = jobs;
+  public dataSource: any;
   displayedColumns: string[] = ['position', 'name', 'weight'];
   constructor() { 
-    console.log(this.dataSource.jobs);
+    this.dataSource = new MatTableDataSource(this.myjobs.jobs);
   }
 
   ngOnInit(): void {
+  }
+
+  applyFilter(event: Event) {
+    const filterValue = (event.target as HTMLInputElement).value;
+    this.dataSource.filter = filterValue.trim().toLowerCase();
   }
 
 }
