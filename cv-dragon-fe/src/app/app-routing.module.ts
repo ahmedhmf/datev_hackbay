@@ -6,6 +6,7 @@ import { UploadCvComponent } from './upload-cv/upload-cv.component';
 import { ApplicantsComponent } from './applicants/applicants.component';
 import { RecruterComponent } from './recruter/recruter.component';
 import { JobDetailsComponent } from './job-details/job-details.component';
+import { CVuploadedComponent } from './cvuploaded/cvuploaded.component';
 
 const routes: Routes = [
   {
@@ -29,7 +30,8 @@ const routes: Routes = [
     component: RecruterComponent,
     children: [],
   },
-  { path: 'job/:id', component: JobDetailsComponent }
+  { path: 'thanks', component: CVuploadedComponent },
+  { path: 'job/:id', component: JobDetailsComponent },
 ];
 
 @NgModule({

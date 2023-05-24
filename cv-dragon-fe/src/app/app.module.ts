@@ -18,10 +18,10 @@ import { MatInputModule } from '@angular/material/input';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatSortModule } from '@angular/material/sort';
 import { MatTableModule } from '@angular/material/table';
-import { RecruiterComponent } from './landing-page/recruiter/recruiter.component';
 import { ApplicantsComponent } from './applicants/applicants.component';
 import { RecruterComponent } from './recruter/recruter.component';
 import { JobDetailsComponent } from './job-details/job-details.component';
+import { CVuploadedComponent } from './cvuploaded/cvuploaded.component';
 
 @NgModule({
   declarations: [
@@ -32,10 +32,10 @@ import { JobDetailsComponent } from './job-details/job-details.component';
     UploadCvComponent,
     OpenedPositionsComponent,
     Page1Component,
-    RecruiterComponent,
     ApplicantsComponent,
     RecruterComponent,
-    JobDetailsComponent
+    JobDetailsComponent,
+    CVuploadedComponent,
   ],
   imports: [
     BrowserModule,
@@ -45,7 +45,11 @@ import { JobDetailsComponent } from './job-details/job-details.component';
     FormsModule,
     ReactiveFormsModule,
     HttpClientModule,
-    MatFormFieldModule, MatInputModule, MatTableModule, MatSortModule, MatPaginatorModule
+    MatFormFieldModule,
+    MatInputModule,
+    MatTableModule,
+    MatSortModule,
+    MatPaginatorModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

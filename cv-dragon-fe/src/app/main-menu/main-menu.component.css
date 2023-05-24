@@ -9,6 +9,10 @@
   background-color: white;
 }
 
+.header-placeholder {
+  height: 10vh;
+}
+
 .menu_nav {
   display: flex;
   justify-content: flex-start;

@@ -1,0 +1,13 @@
+.thanks_dragon {
+  width: 50vw;
+  margin: auto;
+  display: block;
+}
+
+.thanks_txt {
+  font-size: 2rem;
+  line-height: normal;
+  text-align: center;
+  display: block;
+  margin: 4rem;
+}
