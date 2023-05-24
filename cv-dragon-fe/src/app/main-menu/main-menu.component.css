@@ -3,6 +3,10 @@
   justify-content: space-between;
   align-items: center;
   width: 100vw;
+  position: fixed;
+  top: 0;
+  z-index: 3;
+  background-color: white;
 }
 
 .menu_nav {
@@ -14,6 +18,7 @@
 .nav_logo {
   text-align: center;
   margin: 1rem 2rem;
+  cursor: pointer;
 }
 
 .nav_logo-img {
