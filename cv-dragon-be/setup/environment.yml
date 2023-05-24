@@ -115,7 +115,7 @@ dependencies:
   - requests=2.31.0=pyhd8ed1ab_0
   - responses=0.18.0=pyhd8ed1ab_0
   - sacremoses=0.0.53=pyhd8ed1ab_0
-  - scikit-learn=1.0.2=py310h59830a0_1
+  - scikit-learn=1.2.2=py310h313beb8_0
   - scipy=1.10.1=py310h20cbe94_1
   - sentencepiece=0.1.99=py310h48ca7d4_0
   - setuptools=66.0.0=py310hca03da5_0
