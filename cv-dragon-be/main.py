@@ -115,8 +115,7 @@ async def lookupJobpositionApplicants(job_title: str, interested_job_position: s
 """)
 async def predictMatchingJobs(content: str, interested_job_position):
     prediction = predict_class([content], interested_job_position)
-    print(prediction)
-    return {"prediction" : ['Hello', 'There']}
+    return {"prediction" : prediction}
 
 @app.get("/me/")
 async def getProfile(email: str):
