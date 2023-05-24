@@ -1,10 +1,15 @@
+<div style="width:100%; height: 100%; position: absolute; background-color: rgba(0, 0, 0, 0.5); z-index: 100;" *ngIf="showSpinner">
+  <mat-spinner style=" position: absolute;
+  top: 50%;
+  left: 50%;"></mat-spinner>
+</div>
 <form [formGroup]="myForm" class="form">
   <mat-card class="example-card">
     <mat-card-header>
       <div mat-card-avatar class="example-header-image"></div>
       <mat-card-title> Upload</mat-card-title>
       <mat-card-subtitle
-        >Please upload the cv to the job xxxx</mat-card-subtitle
+        >Please upload the cv to the selected jobs</mat-card-subtitle
       >
     </mat-card-header>
 
@@ -19,3 +24,4 @@
     </mat-card-actions>
   </mat-card>
 </form>
+
