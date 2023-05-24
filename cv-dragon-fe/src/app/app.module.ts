@@ -9,7 +9,6 @@ import { MainMenuComponent } from './main-menu/main-menu.component';
 import { MaterialModule } from './material.module';
 import { FormComponent } from './upload-cv/form/form.component';
 import { UploadCvComponent } from './upload-cv/upload-cv.component';
-import { RouterModule } from '@angular/router';
 import { Page1Component } from './landing-page/page1/page1.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
@@ -20,6 +19,7 @@ import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatSortModule } from '@angular/material/sort';
 import { MatTableModule } from '@angular/material/table';
 import { RecruiterComponent } from './landing-page/recruiter/recruiter.component';
+import { ApplicantsComponent } from './applicants/applicants.component';
 
 @NgModule({
   declarations: [
@@ -31,6 +31,7 @@ import { RecruiterComponent } from './landing-page/recruiter/recruiter.component
     OpenedPositionsComponent,
     Page1Component,
     RecruiterComponent,
+    ApplicantsComponent
   ],
   imports: [
     BrowserModule,

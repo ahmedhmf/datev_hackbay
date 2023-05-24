@@ -4,6 +4,7 @@ import { LandingPageComponent } from './landing-page/landing-page.component';
 import { OpenedPositionsComponent } from './opened-positions/opened-positions.component';
 import { RecruiterComponent } from './landing-page/recruiter/recruiter.component';
 import { UploadCvComponent } from './upload-cv/upload-cv.component';
+import { ApplicantsComponent } from './applicants/applicants.component';
 
 const routes: Routes = [
   {
@@ -21,6 +22,10 @@ const routes: Routes = [
   {
     path: 'recruiter',
     component: RecruiterComponent,
+  },
+  {
+    path: 'applicant',
+    component: ApplicantsComponent,
   },
 ];
 
