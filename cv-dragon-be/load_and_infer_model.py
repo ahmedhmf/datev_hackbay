@@ -6,7 +6,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import RandomForestClassifier
 
 
-model = load('filename.joblib') 
+model = load('basic_forest.joblib') 
 
 vect = load('tfidf_vect.joblib')
 
