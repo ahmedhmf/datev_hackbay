@@ -22,6 +22,7 @@ import { ApplicantsComponent } from './applicants/applicants.component';
 import { RecruterComponent } from './recruter/recruter.component';
 import { JobDetailsComponent } from './job-details/job-details.component';
 import { CVuploadedComponent } from './cvuploaded/cvuploaded.component';
+import { RouterModule } from '@angular/router';
 
 @NgModule({
   declarations: [
@@ -50,6 +51,7 @@ import { CVuploadedComponent } from './cvuploaded/cvuploaded.component';
     MatTableModule,
     MatSortModule,
     MatPaginatorModule,
+    RouterModule
   ],
   providers: [],
   bootstrap: [AppComponent],

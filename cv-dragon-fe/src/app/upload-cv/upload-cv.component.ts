@@ -1,6 +1,7 @@
 import { HttpClient, HttpHeaders, HttpParams } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
+import { Router, RouterModule } from '@angular/router';
 import { ApplicantService } from '../applicant.service';
 
 @Component({
@@ -17,7 +18,9 @@ export class UploadCvComponent implements OnInit {
   public address = 'https://a45d-62-128-6-5.ngrok-free.app/';
   constructor(
     private httpClient: HttpClient,
-    private applicantService: ApplicantService
+    private applicantService: ApplicantService,
+    private router: Router,
+
   ) {}
 
   ngOnInit(): void {}
@@ -74,6 +77,7 @@ export class UploadCvComponent implements OnInit {
                     (final) => {
                       console.log(final);
                       this.showSpinner = false;
+                      this.router.navigate(['thanks']);
                     },
                     (error) => {
                       console.log(error);
