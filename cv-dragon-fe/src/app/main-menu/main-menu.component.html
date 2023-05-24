@@ -1,10 +1,10 @@
 <nav class="header_menu">
-  <figure class="nav_logo">
+  <figure class="nav_logo" routerLink="/">
     <img src="../assets/img/logoGroup.png" alt="Datev Logo" class="nav_logo-img">
 
   </figure>
   <div class="menu_nav">
-    <button class="nav_button" (click)="scrollToElement('.page_topSection')">For recruiter</button>
-    <button class="nav_button">For applicants</button>
+    <button class="nav_button" routerLink="/recruiter">For recruiter</button>
+    <button class="nav_button" routerLink="/applicant">For applicants</button>
   </div>
 </nav>
